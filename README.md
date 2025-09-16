@@ -25,15 +25,6 @@
 ### 🧰 Toolbox
 `Python` `TypeScript` `PyTorch` `OpenCV` `MediaPipe` `NumPy` `Flask` `Unity/C#`
 
-### 🌟 Featured
-- **3D Eyeglass Frame Augmentation** — live 3D overlay on webcam  
-  <sub>OpenCV • MediaPipe • Pyrender</sub>  
-  🔗 https://github.com/vrk7/3D-Eyeglass-Frame-Augmentation-on-Camera-Feed
-
-- **Mask Detection (Flask)** — lightweight demo app  
-  <sub>Python • OpenCV • Flask</sub>  
-  🔗 https://github.com/vrk7/Mask-Detection-using-Flask
-
 ### 📌 Notes
 - I keep forks for learning/reference; pinned repos are ones I actively maintain.
 
