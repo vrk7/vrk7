@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vrk7">
+  <a href="https://github.com/vrk7" target="_blank" rel="noopener noreferrer">
     <img alt="Followers" src="https://img.shields.io/github/followers/vrk7?label=Follow&style=social">
   </a>
-  <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/">
+  <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vysakh%20Ramakrishnan-blue?logo=linkedin">
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=vrk7&style=flat">
@@ -39,4 +39,4 @@
 </details>
 
 ### 🤝 Let’s connect
-- 📫 DM me on <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/">LinkedIn</a>
+- 📫 DM me on <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
