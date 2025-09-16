@@ -31,11 +31,14 @@
 ---
 
 <details>
-  <summary><b>📈 GitHub stats (click to expand)</b></summary><br>
+  ### 📈 GitHub stats
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats">
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrk7&layout=compact&hide_title=true" alt="Top languages">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrk7&layout=compact&hide_title=true" alt="Top languages">
+  </p>
+
 </details>
 
 ### 🤝 Let’s connect
