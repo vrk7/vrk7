@@ -30,16 +30,13 @@
 
 ---
 
-<details>
-  ### 📈 GitHub stats
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats">
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrk7&layout=compact&hide_title=true" alt="Top languages">
-  </p>
+### 📈 GitHub stats
 
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrk7&layout=compact&hide_title=true" alt="Top languages">
+</p>
 
 ### 🤝 Let’s connect
 - 📫 DM me on <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
