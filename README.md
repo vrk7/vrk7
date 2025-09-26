@@ -9,17 +9,17 @@
 
   <p>
     <a href="https://github.com/vrk7?tab=followers">
-      <img src="https://img.shields.io/github/followers/vrk7?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
+      <img src="https://img.shields.io/github/followers/vrk7?label=Batcave%20Allies&logo=github&style=for-the-badge&color=8E44AD" alt="Allies" />
     </a>
     <a href="https://github.com/vrk7">
-      <img src="https://img.shields.io/badge/Code%20Stats-Live-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Live Coding Stats" />
+      <img src="https://img.shields.io/badge/Bat%20Signal-⚡%20ON-black?style=for-the-badge&logo=github&logoColor=white" alt="Bat Signal" />
     </a>
     <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=8E44AD&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Geek;3D+Graphics+Enthusiast;Real-time+Pipeline+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Geek;3D+Graphics+Enthusiast;Real-time+Pipeline+Builder" alt="Typing SVG" />
 </div>
 
 
