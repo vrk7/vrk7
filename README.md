@@ -71,5 +71,7 @@
 ⚡ Loves: fast code, clean design, and clever hacks
 🎯 Mission: make AI practical & real-time
 
+---
+
 ### 🤝 Let’s connect
 - 📫 DM me on <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
