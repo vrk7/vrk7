@@ -137,7 +137,9 @@ flowchart TD
 
 <div align="center">
   <!-- Contribution Calendar -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrk7&custom_title=Contribution%20Calendar&hide_border=true&theme=tokyo-night&area=true" alt="Contribution Calendar" />
+  <p align="center">
+    <img src="https://ghchart.rshah.org/8E44AD/vrk7" alt="Contribution chart" />
+  </p>
 
   <!-- Collapsible interactive box -->
   <details>
