@@ -159,9 +159,7 @@ flowchart TD
 ## 🤝 Let's Connect
 
 - 💼 Portfolio: <a href="https://vrk7.github.io" target="_blank" rel="noopener noreferrer">vrk7.github.io</a>
-- 📝 Writing: <a href="https://vrk7.github.io/blog" target="_blank" rel="noopener noreferrer">Long-form notes & case studies</a>
 - 💬 DM me on <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- 🐦 Occasional threads on <a href="https://twitter.com/vysakh__" target="_blank" rel="noopener noreferrer">Twitter</a>
 
 ---
 
