@@ -8,13 +8,20 @@
   </p>
 
   <p>
-    <a href="https://github.com/vrk7?tab=followers"><img src="https://img.shields.io/github/followers/vrk7?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" /></a>
-    <a href="https://vrk7.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-8E44AD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://github.com/vrk7?tab=followers">
+      <img src="https://img.shields.io/github/followers/vrk7?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/vrk7">
+      <img src="https://img.shields.io/badge/Code%20Stats-Live-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Live Coding Stats" />
+    </a>
+    <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=8E44AD&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Geek;3D+Graphics+Enthusiast;Real-time+Pipeline+Builder" alt="Typing SVG" />
 </div>
+
 
 ---
 
