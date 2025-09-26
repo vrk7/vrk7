@@ -145,7 +145,6 @@ flowchart TD
     <br/>
     <img src="https://github-contributor-stats.vercel.app/api?username=vrk7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
     <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=vrk7&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=5" alt="GitHub Trophies" />
   </details>
 </div>
 
