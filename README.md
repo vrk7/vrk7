@@ -136,12 +136,19 @@ flowchart TD
 ## 📈 Stats & Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrk7&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=vrk7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrk7&theme=react-dark&hide_border=true" alt="Activity graph" />
+  <!-- Contribution Calendar -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrk7&custom_title=Contribution%20Calendar&hide_border=true&theme=tokyo-night&area=true" alt="Contribution Calendar" />
+
+  <!-- Collapsible interactive box -->
+  <details>
+    <summary><b>🦇 Contribution Highlights (click to expand)</b></summary>
+    <br/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=vrk7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vrk7&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=5" alt="GitHub Trophies" />
+  </details>
 </div>
+
 
 <details>
   <summary><strong>Contribution Snake & Trophy Case</strong></summary>
