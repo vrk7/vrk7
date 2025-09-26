@@ -156,17 +156,6 @@ flowchart TD
 
 ---
 
-## 🎮 Easter Egg
-
-```bash
-> ./whoami
-🦇 Vysakh — Engineer of Vision
-⚡ Loves: fast code, clean design, clever hacks
-🎯 Mission: make AI practical & real-time
-```
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 Portfolio: <a href="https://vrk7.github.io" target="_blank" rel="noopener noreferrer">vrk7.github.io</a>
