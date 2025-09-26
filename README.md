@@ -29,8 +29,21 @@
 ---
 
 ### 🧰 Toolbox
+### ✨ Fun Widgets
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,unity,cs,ts,flask,git,linux&perline=6" />
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=8E44AD&center=true&vCenter=true&width=500&lines=AI+Engineer;Computer+Vision+Geek;Metasurface+Explorer;Open-Source+Builder" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <!-- GitHub streak -->
+  <img src="https://streak-stats.demolab.com?user=vrk7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrk7&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
