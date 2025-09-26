@@ -140,6 +140,8 @@ flowchart TD
   <p align="center">
     <img src="https://ghchart.rshah.org/vrk7" alt="Vysakh's GitHub contribution chart" />
   </p>
+  <!-- Green GitHub-style contribution calendar -->
+  <img src="https://raw.githubusercontent.com/vrk7/vrk7/main/metrics.plugin.calendar.svg" alt="Contribution Calendar" />
 
   <!-- Collapsible interactive box -->
   <details>
