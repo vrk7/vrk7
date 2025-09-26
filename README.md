@@ -137,7 +137,11 @@ flowchart TD
   <summary><strong>Contribution Snake & Trophy Case</strong></summary>
   <br/>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/vrk7/vrk7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?user=vrk7" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=vrk7" />
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=vrk7" alt="Contribution snake animation" />
+    </picture>
     <br/>
     <img src="https://github-profile-trophy.vercel.app/?username=vrk7&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </p>
@@ -147,18 +151,12 @@ flowchart TD
 
 ## 🎮 Easter Egg
 
-<div align="center">
-
-```
-┌──(visitor@github)-[~/vrk7]
-└─$ ./whoami
+```bash
+> ./whoami
 🦇 Vysakh — Engineer of Vision
 ⚡ Loves: fast code, clean design, clever hacks
 🎯 Mission: make AI practical & real-time
 ```
-
-</div>
-
 
 ---
 
