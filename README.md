@@ -137,7 +137,7 @@ flowchart TD
   <summary><strong>Contribution Snake & Trophy Case</strong></summary>
   <br/>
   <p align="center">
-    <img src="https://github.com/vrk7/vrk7/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+    <img src="https://raw.githubusercontent.com/vrk7/vrk7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
     <br/>
     <img src="https://github-profile-trophy.vercel.app/?username=vrk7&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </p>
@@ -147,12 +147,18 @@ flowchart TD
 
 ## 🎮 Easter Egg
 
-```bash
-> ./whoami
+<div align="center">
+
+```
+┌──(visitor@github)-[~/vrk7]
+└─$ ./whoami
 🦇 Vysakh — Engineer of Vision
 ⚡ Loves: fast code, clean design, clever hacks
 🎯 Mission: make AI practical & real-time
 ```
+
+</div>
+
 
 ---
 
