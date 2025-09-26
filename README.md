@@ -138,7 +138,7 @@ flowchart TD
 <div align="center">
   <!-- Contribution Calendar -->
   <p align="center">
-    <img src="https://ghchart.rshah.org/8E44AD/vrk7" alt="Contribution chart" />
+    <img src="https://ghchart.rshah.org/vrk7" alt="Vysakh's GitHub contribution chart" />
   </p>
 
   <!-- Collapsible interactive box -->
