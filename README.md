@@ -140,6 +140,8 @@ flowchart TD
   <p align="center">
     <img src="https://ghchart.rshah.org/vrk7" alt="Vysakh's GitHub contribution chart" />
   </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats">
+  <br><br>
 
   <!-- Collapsible interactive box -->
   <details>
