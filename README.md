@@ -138,8 +138,8 @@ flowchart TD
 <div align="center">
   <!-- Contribution Calendar -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats">
-    <br><br>
+    <!-- Activity graph -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrk7&theme=react-dark&hide_border=true" alt="Activity Graph"/>
   </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats">
   <br><br>
