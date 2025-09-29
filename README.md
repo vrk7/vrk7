@@ -51,6 +51,8 @@
     <li>🛠️ Building reproducible pipelines with CI/CD, docs, and observability.</li>
     <li>🏎️ Shipping code that meets real-time constraints without sacrificing quality.</li>
   </ul>
+  <!-- ✨ Add fun fact here -->
+  <p><em>🦇 Just like Batman, I believe in tools, not superpowers.</em></p>
 </details>
 
 <details>
