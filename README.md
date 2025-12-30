@@ -3,8 +3,8 @@
 <div align="center">
   <h1>🦇 Welcome to Gotham — I'm Vysakh</h1>
   <p>
-    <strong>AI • Computer Vision • 3D Graphics</strong><br/>
-    Building real-time, camera-aware experiences and practical ML pipelines.
+    <strong>AI • Full-Stack • 3D Graphics</strong><br/>
+    Building full-stack AI solutions and practical ML pipelines.
   </p>
 
   <p>
@@ -22,7 +22,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Geek;3D+Graphics+Enthusiast;Real-time+Pipeline+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Enthusiast;Real-time+Pipeline+Builder" alt="Typing SVG" />
 </div>
 
 
