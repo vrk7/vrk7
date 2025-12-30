@@ -13,7 +13,6 @@
     </a>
     <a href="https://github.com/vrk7">
       <img src="https://komarev.com/ghpvc/?username=vrk7&style=for-the-badge&color=blueviolet&label=Visitors" alt="Visitors" />
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=vrk7.profile&left_text=Visitors%20(unique)&left_color=8E44AD&right_color=blueviolet" alt="Unique visitors" />
     </a>
     <a href="https://github.com/vrk7">
       <img src="https://img.shields.io/badge/Bat%20Signal-⚡%20ON-black?style=for-the-badge&logo=github&logoColor=white" alt="Bat Signal" />
