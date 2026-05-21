@@ -1,7 +1,7 @@
 <!-- Profile README: github.com/vrk7/vrk7 -->
 
 <div align="center">
-  <h1>🦇 Welcome to Gotham — I'm Vysakh</h1>
+  <h1>Hi, I'm Vysakh</h1>
   <p>
     <strong>AI • Full-Stack • 3D Graphics</strong><br/>
     Building full-stack AI solutions and practical ML pipelines.
@@ -9,13 +9,10 @@
 
   <p>
     <a href="https://github.com/vrk7?tab=followers">
-      <img src="https://img.shields.io/github/followers/vrk7?label=Batcave%20Allies&logo=github&style=for-the-badge&color=8E44AD" alt="Allies" />
+      <img src="https://img.shields.io/github/followers/vrk7?label=Followers&logo=github&style=for-the-badge&color=8E44AD" alt="Followers" />
     </a>
     <a href="https://github.com/vrk7">
       <img src="https://komarev.com/ghpvc/?username=vrk7&style=for-the-badge&color=blueviolet&label=Visitors" alt="Visitors" />
-    </a>
-    <a href="https://github.com/vrk7">
-      <img src="https://img.shields.io/badge/Bat%20Signal-⚡%20ON-black?style=for-the-badge&logo=github&logoColor=white" alt="Bat Signal" />
     </a>
     <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -31,38 +28,36 @@
 ## 🧭 Quick Navigation
 
 <p align="center">
-  <a href="#-mission-control">Mission Control</a> •
+  <a href="#-about">About</a> •
   <a href="#-toolbox">Toolbox</a> •
-  <a href="#-lab-notebook">Lab Notebook</a> •
+  <a href="#-projects">Projects</a> •
   <a href="#-stats--status">Stats & Status</a> •
   <a href="#-lets-connect">Let's Connect</a>
 </p>
 
 ---
 
-## 🚀 Mission Control
+## About
 
 <details open>
-  <summary><strong>What I'm currently piloting</strong></summary>
+  <summary><strong>What I'm currently working on</strong></summary>
   <br/>
   <ul>
-    <li>🛰️ Deploying camera-aware AI that fuses vision + geometry.</li>
-    <li>🧪 Rapid prototyping practical ML demos with polished UX.</li>
-    <li>🛠️ Building reproducible pipelines with CI/CD, docs, and observability.</li>
-    <li>🏎️ Shipping code that meets real-time constraints without sacrificing quality.</li>
+    <li>Deploying camera-aware AI that fuses vision + geometry.</li>
+    <li>Rapid prototyping practical ML demos with polished UX.</li>
+    <li>Building reproducible pipelines with CI/CD, docs, and observability.</li>
+    <li>Shipping code that meets real-time constraints without sacrificing quality.</li>
   </ul>
-  <!-- ✨ Add fun fact here -->
-  <p><em>🦇 Just like Batman, I believe in tools, not superpowers.</em></p>
 </details>
 
 <details>
   <summary><strong>How I approach problems</strong></summary>
   <br/>
   <ul>
-    <li>🎯 Product-focused research mindset — align metrics with actual user value.</li>
-    <li>🧠 Pair cutting-edge models with pragmatic engineering trade-offs.</li>
-    <li>🗺️ Architect for iteration: modular components, automated tests, reproducible envs.</li>
-    <li>🤝 Collaborative by default — clear documentation, async-friendly communication.</li>
+    <li>Product-focused research mindset — align metrics with actual user value.</li>
+    <li>Pair cutting-edge models with pragmatic engineering trade-offs.</li>
+    <li>Architect for iteration: modular components, automated tests, reproducible envs.</li>
+    <li>Collaborative by default — clear documentation, async-friendly communication.</li>
   </ul>
 </details>
 
@@ -77,7 +72,7 @@
 <table>
   <tr>
     <td>
-      <h3>🧱 Core Stack</h3>
+      <h3>Core Stack</h3>
       <ul>
         <li>Python + PyTorch for model training and deployment.</li>
         <li>Unity & Three.js for spatial/AR graphics.</li>
@@ -85,7 +80,7 @@
       </ul>
     </td>
     <td>
-      <h3>⚙️ Ops & DX</h3>
+      <h3>Ops & DX</h3>
       <ul>
         <li>Dockerized pipelines with Makefiles + GitHub Actions.</li>
         <li>Monitoring with Weights & Biases, Prometheus, Grafana.</li>
@@ -97,12 +92,12 @@
 
 ---
 
-## 🧪 Lab Notebook
+## 🧪 Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>📸 Spatial Vision</h3>
+      <h3>Spatial Vision</h3>
       <ul>
         <li>Instant AR overlays using depth-aware segmentation.</li>
         <li>3D pose pipelines for sports & motion analytics.</li>
@@ -110,7 +105,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>🤖 Applied ML</h3>
+      <h3>Applied ML</h3>
       <ul>
         <li>Edge-ready detectors optimized with TensorRT.</li>
         <li>LLM agents orchestrating computer vision tasks.</li>
@@ -121,7 +116,7 @@
 </table>
 
 <details>
-  <summary><strong>Peek into my workflow (click to expand)</strong></summary>
+  <summary><strong>Workflow (click to expand)</strong></summary>
 
 ```mermaid
 flowchart TD
@@ -138,17 +133,8 @@ flowchart TD
 ## 📈 Stats & Status
 
 <div align="center">
-  <!-- Contribution Calendar -->
-  <!-- <p align="center">
-    <!-- Activity graph -->
-    <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrk7&theme=react-dark&hide_border=true" alt="Activity Graph"/> -->
-  <!-- </p> -->
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&hide_title=true" alt="GitHub stats"> -->
-  <!-- <br><br> -->
-
-  <!-- Collapsible interactive box -->
   <details>
-    <summary><b>🦇 Contribution Highlights (click to expand)</b></summary>
+    <summary><b>Contribution Highlights (click to expand)</b></summary>
     <br/>
     <img src="https://github-contributor-stats.vercel.app/api?username=vrk7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
     <br/>
@@ -173,8 +159,8 @@ flowchart TD
 
 ## 🤝 Let's Connect
 
-- 💼 Portfolio: <a href="https://vrk7.github.io" target="_blank" rel="noopener noreferrer">vrk7.github.io</a>
-- 💬 DM me on <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- Portfolio: <a href="https://vrk7.github.io" target="_blank" rel="noopener noreferrer">vrk7.github.io</a>
+- <a href="https://www.linkedin.com/in/vysakh-ramakrishnan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
