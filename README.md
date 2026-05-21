@@ -1,10 +1,10 @@
 <!-- Profile README: github.com/vrk7/vrk7 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vysakh%20Ramakrishnan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20%7C%203D%20Graphics&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vysakh%20Ramakrishnan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Agents%20%7C%20Developer%20Tools%20%7C%20Real-time%20Systems&descAlignY=58&descSize=18" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+real-time+AI+systems+%F0%9F%A4%96;Fusing+vision+%2B+geometry+%F0%9F%93%B7;Shipping+from+prototype+to+production+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+agents+%26+developer+tools;Real-time+vision+%2B+voice+systems;Open-source+infra+for+the+AI+era" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -25,12 +25,71 @@
 
 ## About Me
 
-I build production-grade AI systems — from real-time computer vision to LLM-powered pipelines. I work across the full stack: model research, backend services, and interactive 3D frontends.
+I build AI agents, open-source developer tools, and real-time systems. My work spans LLM-powered automation, computer vision pipelines, and interactive voice/video applications.
 
-- Engineering camera-aware AI that fuses **vision + geometry**
-- Shipping **real-time pipelines** that meet latency constraints without sacrificing reliability
-- Prototyping with **LLM agents**, NeRF, and edge-optimized inference
-- Code for humans first: modular, tested, documented
+- Shipping **AI agent frameworks** — SRE automation, research pipelines, job search systems
+- Building **open-source infra** — graph databases, PDF parsers, AI toolkits
+- Engineering **real-time apps** — voice/video with LiveKit, AR overlays, edge CV
+- Research background in 3D graphics — Gaussian splatting, neural optics, robotic segmentation
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/opensre">opensre</a></h3>
+      <p>Build your own AI SRE agents. Open-source toolkit for incident response and site reliability in the AI era.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/nanograph">nanograph</a></h3>
+      <p>On-device property graph database. Schema-as-code, one CLI, one folder, no server. Think DuckDB for graphs.</p>
+      <img src="https://img.shields.io/badge/CLI-Tool-black?style=flat-square&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/career-ops">career-ops</a></h3>
+      <p>AI-powered job search system on Claude Code — 14 skill modes, Go dashboard, PDF generation, batch processing.</p>
+      <img src="https://img.shields.io/badge/Claude_API-AI-orange?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/moltbot">moltbot</a></h3>
+      <p>Personal AI assistant for any OS and platform. Built with TypeScript.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/autoresearch">autoresearch</a></h3>
+      <p>AI agents that autonomously run research on single-GPU nanochat model training.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/web-livekit_kontext">web-livekit-kontext</a></h3>
+      <p>Real-time voice + video demo integrating LiveKit, ElevenLabs, and Kontext for immersive AI interactions.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/LiveKit-Real--time-00B4D8?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/opendataloader-pdf">opendataloader-pdf</a></h3>
+      <p>PDF parser for AI-ready data. Automates PDF accessibility for ML pipelines. Open-source.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/vrk7/3D-Eyeglass-Frame-Augmentation-on-Camera-Feed">3D Eyeglass AR</a></h3>
+      <p>Real-time 3D eyeglass frame augmentation on live webcam feed using face detection and geometry alignment.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,12 +97,12 @@ I build production-grade AI systems — from real-time computer vision to LLM-po
 
 <div align="center">
 
-**AI / ML**
+**AI / Agents**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-orange?style=flat-square)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
 **Full Stack**
@@ -96,43 +155,6 @@ I build production-grade AI systems — from real-time computer vision to LLM-po
 </div>
 
 ---
-
-## Work Areas
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Spatial Vision</h3>
-      <ul>
-        <li>AR overlays with depth-aware segmentation</li>
-        <li>3D pose pipelines for sports & motion analytics</li>
-        <li>NeRF scene capture for digital twins</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Applied ML</h3>
-      <ul>
-        <li>Edge detectors optimized with TensorRT</li>
-        <li>LLM agents orchestrating vision tasks</li>
-        <li>Evaluation harnesses with synthetic + real data</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>Engineering Workflow</strong></summary>
-  <br/>
-
-```mermaid
-flowchart TD
-  A[💡 Idea] --> B[🔬 Rapid prototype]
-  B --> C{📊 Validate metrics}
-  C -- pass --> D[🚀 Scale & deploy]
-  C -- fail --> B
-  D --> E[📚 Document & demo]
-```
-</details>
 
 <details>
   <summary><strong>Contribution Snake</strong></summary>
