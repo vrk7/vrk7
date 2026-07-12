@@ -131,45 +131,6 @@ I build AI agents, open-source developer tools, and real-time systems. My work s
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vrk7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vrk7&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrk7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vrk7&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vrk7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
----
-
-<details>
-  <summary><strong>Contribution Snake</strong></summary>
-  <br/>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?user=vrk7" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=vrk7" />
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=vrk7" alt="Contribution snake" />
-    </picture>
-  </p>
-</details>
-
----
-
 ## Connect
 
 <p align="left">
